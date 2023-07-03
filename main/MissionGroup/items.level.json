@@ -1,0 +1,12 @@
+{"name":"sky_and_sun","class":"SimGroup","persistentId":"64578465-8bdf-4a39-a246-5b85d5483b5f","__parent":"MissionGroup"}
+{"name":"CameraBookmarks","class":"SimGroup","persistentId":"ba0a4ed3-f871-47b3-bb23-ba5d8f6643c1","__parent":"MissionGroup"}
+{"name":"theTerrain","class":"TerrainBlock","persistentId":"129afdcb-1f25-4978-a8c3-f57c47a185c0","__parent":"MissionGroup","position":[-512,-512,100],"maxHeight":150,"squareSize":2.00000024,"terrainFile":"/levels/fresh/theTerrain.ter"}
+{"name":"vegetation","class":"SimGroup","persistentId":"ae87c2fa-36d6-48a9-9512-0acb32417ebd","__parent":"MissionGroup"}
+{"name":"Water","class":"SimGroup","persistentId":"c7a27044-2e58-43b8-90b1-cd2784b7bad0","__parent":"MissionGroup"}
+{"name":"PlayerDropPoints","class":"SimGroup","persistentId":"54bcf399-4c2e-4fdc-a6f0-fc5e88212d92","__parent":"MissionGroup","enabled":"1"}
+{"name":"AIWaypointsGroup","class":"SimGroup","persistentId":"60e3e825-8013-4529-b372-9440f825934a","__parent":"MissionGroup"}
+{"name":"AIDecalWaypointsGroup","class":"SimGroup","persistentId":"d261176f-5976-4470-9312-1507d9812677","__parent":"MissionGroup"}
+{"name":"Roads","class":"SimGroup","persistentId":"33082ac8-189d-40cc-a5a3-a9d5b1ef1f06","__parent":"MissionGroup"}
+{"name":"builds_unpacked","class":"SimGroup","persistentId":"14d0d927-1c53-4b4a-9501-d34f38f2615f","__parent":"MissionGroup","groupPosition":"0 0 0","prefab_filename":"/levels/fresh/art/builds.prefab.json","prefab_loadmode":"auto","prefab_name":"builds","prefab_position":"-68.095810 -49.877243 120.120285","unpacked_prefab":"1"}
+{"class":"TSStatic","persistentId":"0c9a200c-ab4d-48f1-892f-55b8b9c4f3e9","__parent":"MissionGroup","position":[1467.53943,-283.052979,129.801941],"isRenderEnabled":false,"rotationMatrix":[0.0394314528,-0.9992221,-3.7252903e-09,0.997176349,0.0393506885,0.0639571026,-0.0639073551,-0.00252191909,0.99795264],"shapeName":"/art/shapes/objects/construction_sign_big_c.DAE","useInstanceRenderData":true}
+{"name":"NewMeshRoad12","class":"MeshRoad","persistentId":"fbd84a4a-bba8-4281-839f-033e7904e966","__parent":"MissionGroup","position":[1447.50488,-285.683136,131.31813],"nodes":[[1447.89697,-284.115479,129.035507,6,1,-0.0333919935,0.10160204,0.994264543],[1446.40332,-289.490509,129.725769,6,1,-0.0167199876,0.0508740209,0.998565137],[1440.34485,-309.707428,129.476227,6,1,0,0,1]],"topMaterial":"a_asphalt_01_a"}
